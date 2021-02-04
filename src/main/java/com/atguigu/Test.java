@@ -9,7 +9,11 @@ public class Test {
     String branch = "我是dev分支啊";
     System.out.println("第一个maven工程,我对它进行修改啦");
     System.out.println("1111");
+<<<<<<< HEAD
     System.out.println("master3333");
+=======
+    System.out.println("dev2222");
+>>>>>>> dev
   }
 
 }
